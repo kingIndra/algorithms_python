@@ -2,7 +2,7 @@
 Linear Search
 Time Complexity of Worst case is O(n)
 and size
-of the array should be passed for the "end" parameter.
+of the array should be passed for the "r" parameter.
 """
 
 def linear_s(array, key) -> bool:
